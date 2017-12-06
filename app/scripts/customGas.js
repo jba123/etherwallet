@@ -13,6 +13,12 @@ gasLimit:   114293,
 data:       '',
 msg:        'NOX Token Sale'
 },{
+// LondonCoin Token Sale
+to:         '0x9efa0e2387e4cba02a6e4e6594b8f4dd209a0b93',
+gasLimit:   114293,
+data:       '',
+msg:        'LDX Token Sale'
+},{
 // GEE Token Sale
 to:         '0xF5DFFdEAEA54bB56156B47de1C7b4346c7dBa69C',
 gasLimit:   180000,
